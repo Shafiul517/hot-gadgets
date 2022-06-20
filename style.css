@@ -1,0 +1,50 @@
+body{
+    font-family: 'Nanum Gothic', sans-serif;
+
+    font-family: 'Nunito Sans', sans-serif;
+}
+.container{
+    margin-bottom: 70px;
+}
+.nav-margin-btm{
+    margin-bottom: 0px;
+}
+.bg-image{
+    background-image: url(images/bg-2.png), url(images/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: bottom left, center;
+    background-size: 130px, 60px;
+}
+.carousel-item{
+    padding: 35px 80px;
+}
+.buy-now-btn{
+    background-color: black;
+    padding: 10px 20px;
+    color: white;
+    border: none;
+    border-radius: 8px;
+}
+
+.carousel-indicators {
+    background-color: #CFE2FF;
+}
+.color-org{
+    color: orange;
+}
+.margin-top{
+    margin-top: 15px;
+}
+.card{
+    padding: 25px 30px;
+    border: none;
+    box-shadow: 3px 3px 5px gray;
+    border-radius: 10px;
+}
+.card p{
+    color: grey;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
